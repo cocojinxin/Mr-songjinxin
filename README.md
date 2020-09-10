@@ -1,5 +1,3 @@
-# Hello there 👋
-
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐 Website** for a living and also **Write some blogs**. 🌈    
