@@ -3,7 +3,6 @@
 I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐 Website** for a living and also **Write some blogs**. 🌈    
 
 * 🧐   Interested in full stack. Recent focus on backend.
-* 💼   Senior Back End Engineer at Alibaba Group.
 * 🎓   Bachelor of Engineering in Computer Science and Engineering, GPA 3.82/4.0, TOP 3%.
 * 🌱   Currently learning Math & Philosophy.
 * 📚   Reading more about Apple, Harry Potter and how the computer works.
