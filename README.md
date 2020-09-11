@@ -1,4 +1,4 @@
-#### I'm a Software Engineer working in Ireland.
+#### I'm a China Engineer working in Ireland.
 
 - ⚙️ I use daily: `.Swift`, `.Java`, `.Python`, `.SQL`
 - :star: Here are my certificates: <img src="https://static.scrum.org/web/open-badges/psmi.png" width="40" height="40">, <img src="https://lee-portfolio-image.s3-eu-west-1.amazonaws.com/aws-certified-cloud-practitioner.png" width="40" height="40">
