@@ -1,10 +1,20 @@
-#### I'm a China Engineer working in Ireland.
+- 🔭 I’m currently working on `Vue` and `React`
+- 🌱 I’m currently learning Flutter!
+- 💬 Ask me about `Python`, `Flask` or `Django`!
+- 📫 How to reach me: [Twitter](https://twitter.com/gdiptangsu), [Instagram](https://www.instagram.com/random_unrelated_name/)
 
-- ⚙️ I use daily: `.Swift`, `.Java`, `.Python`, `.SQL`
-- :star: Here are my certificates: <img src="https://static.scrum.org/web/open-badges/psmi.png" width="40" height="40">, <img src="https://lee-portfolio-image.s3-eu-west-1.amazonaws.com/aws-certified-cloud-practitioner.png" width="40" height="40">
-- 🌱 Checkout my [portfolio](http://www.leeqii.com/)
-- 🎙 Currently a technical writer on [Medium](https://medium.com/@lee5187415)
-- 💬 Ping me about **iOS**, **Android**, **Python-Django**, **CS foudation**, **Design Thinking**
-- 📫 Reach me: LinkedIn, twitter
-- :racehorse: Fighting in the Code War ... ![alt text](https://www.codewars.com/users/lee197/badges/micro)
-- ⚡️ Fun fact: One shot of vodka knocks me down.....
+[![Diptangsu's github stats](https://github-readme-stats.vercel.app/api?username=Mr-songjinxin&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+### Languages & Frameworks:
+
+<code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/python.png"/></code>
+<code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/flask.png"/></code>
+<code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/django.png"/></code>
+<code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/sanic.png"/></code>
+<code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/javascript.png"/></code>
+<code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/git.png"/></code>
+<code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/sqlalchemy.jpg"/></code>
+<code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/postgresql.png"/></code>
+<code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/mysql.png"/></code>
+<code><img height=40 src="https://github.com/diptangsu/diptangsu/blob/master/src/java.png"/></code>
+
