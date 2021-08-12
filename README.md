@@ -13,6 +13,7 @@
 ### Languages & Frameworks:
 
 <code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/python.png"/></code>
+<code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/flask.png"/></code>
 <code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/django.png"/></code>
 <code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/sanic.png"/></code>
 <code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/javascript.png"/></code>
