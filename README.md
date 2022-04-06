@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on `Vue` and `React`
 - 🌱 I’m currently learning Flutter!
-- :star: Here are my certificates: <img src="https://static.scrum.org/web/open-badges/psmi.png" width="40" height="40"><img src="https://lee-portfolio-image.s3-eu-west-1.amazonaws.com/aws-certified-cloud-practitioner.png" width="40" height="40">   
+- :star: Here are my certificates: <img src="https://static.scrum.org/web/open-badges/psmi.png" width="40" height="40">  
 - :racehorse: Fighting in the Code War ... ![alt text](https://www.codewars.com/users/lee197/badges/micro) 
 - ⚡️ Fun fact: One shot of vodka knocks me down.....
 
